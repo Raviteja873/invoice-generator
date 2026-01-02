@@ -29,7 +29,8 @@ This project is ideal for **students, freelancers, and small businesses** to und
 ---
 
 ## 📸 Screenshots
-(Add your screenshots here if needed)
+<img width="1729" height="910" alt="image" src="https://github.com/user-attachments/assets/d03cf25c-6351-47b7-b4eb-98c9329a6dfe" />
+
 
 ---
 
